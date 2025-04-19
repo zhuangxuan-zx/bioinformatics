@@ -1,0 +1,13 @@
+,expression_clusters,methylation_clusters,mirna_clusters,cnv_clusters,mutation_clusters,protein_clusters,expression_correlation_filtered.csv,methylation_correlation_filtered.csv,mirna_correlation_filtered.csv,cnv_correlation_filtered.csv,mutation_correlation_filtered.csv,protein_correlation_filtered.csv
+expression_clusters,418,375,371,416,415,0,418,375,371,416,415,0
+methylation_clusters,375,396,386,393,393,0,375,396,386,393,393,0
+mirna_clusters,371,386,387,385,385,0,371,386,387,385,385,0
+cnv_clusters,416,393,385,441,437,0,416,393,385,441,437,0
+mutation_clusters,415,393,385,437,439,0,415,393,385,437,439,0
+protein_clusters,0,0,0,0,0,200,0,0,0,0,0,200
+expression_correlation_filtered.csv,418,375,371,416,415,0,418,375,371,416,415,0
+methylation_correlation_filtered.csv,375,396,386,393,393,0,375,396,386,393,393,0
+mirna_correlation_filtered.csv,371,386,387,385,385,0,371,386,387,385,385,0
+cnv_correlation_filtered.csv,416,393,385,441,437,0,416,393,385,441,437,0
+mutation_correlation_filtered.csv,415,393,385,437,439,0,415,393,385,437,439,0
+protein_correlation_filtered.csv,0,0,0,0,0,200,0,0,0,0,0,200
